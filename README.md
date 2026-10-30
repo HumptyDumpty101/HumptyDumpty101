@@ -1,10 +1,18 @@
 <img src="https://raw.githubusercontent.com/HumptyDumpty101/HumptyDumpty101/main/images/v2/hero.svg" width="100%" alt="Rohith K S" />
 
-<p>
+<p align="center">
   <a href="https://rohithks.com"><img src="https://raw.githubusercontent.com/HumptyDumpty101/HumptyDumpty101/main/images/v2/btn-portfolio.svg" height="46" alt="rohithks.com" /></a>
   <a href="https://linkedin.com/in/rohithks-dev"><img src="https://raw.githubusercontent.com/HumptyDumpty101/HumptyDumpty101/main/images/v2/btn-linkedin.svg" height="46" alt="LinkedIn" /></a>
   <a href="mailto:rohithks60@gmail.com"><img src="https://raw.githubusercontent.com/HumptyDumpty101/HumptyDumpty101/main/images/v2/btn-email.svg" height="46" alt="Email me" /></a>
 </p>
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/HumptyDumpty101?style=for-the-badge&color=cba6f7&labelColor=1e1e2e&label=Followers&logo=github&logoColor=cba6f7" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/HumptyDumpty101?affiliations=OWNER&style=for-the-badge&color=b4befe&labelColor=1e1e2e&label=Stars&logo=github&logoColor=b4befe" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/742%20contributions-2026-cba6f7?style=for-the-badge&labelColor=1e1e2e&logo=github&logoColor=cba6f7" />
+</div>
 
 <img src="https://raw.githubusercontent.com/HumptyDumpty101/HumptyDumpty101/main/images/v2/numbers.svg" width="100%" alt="" />
 
@@ -29,20 +37,12 @@
 
 <img src="https://raw.githubusercontent.com/HumptyDumpty101/HumptyDumpty101/main/images/v2/label-github.svg" width="100%" alt="On GitHub" />
 
-<img src="https://raw.githubusercontent.com/HumptyDumpty101/HumptyDumpty101/main/images/v2/contributions.svg" width="100%" alt="Contribution graph" />
+<img src="https://raw.githubusercontent.com/HumptyDumpty101/HumptyDumpty101/main/images/v2/snake.svg" width="100%" alt="Contribution snake" />
 
-<p>
-  <img src="https://img.shields.io/github/followers/HumptyDumpty101?style=for-the-badge&color=cba6f7&labelColor=1e1e2e&label=Followers&logo=github&logoColor=cba6f7" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/HumptyDumpty101?affiliations=OWNER&style=for-the-badge&color=b4befe&labelColor=1e1e2e&label=Stars&logo=github&logoColor=b4befe" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/742%20contributions-2026-cba6f7?style=for-the-badge&labelColor=1e1e2e&logo=github&logoColor=cba6f7" />
-</p>
-
-<p>
+<div align="center">
   <a href="https://github.com/HumptyDumpty101/stock_analysis_agent"><img src="https://img.shields.io/badge/stock__analysis__agent-LangGraph%20%C2%B7%20Bedrock%20%C2%B7%20FastAPI-cba6f7?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e2e" /></a>
   &nbsp;
   <a href="https://github.com/HumptyDumpty101/finance-nps-project"><img src="https://img.shields.io/badge/finance--nps--project-LangChain%20%C2%B7%20Python%20%C2%B7%20FastAPI-b4befe?style=for-the-badge&logo=github&logoColor=white&labelColor=1e1e2e" /></a>
-</p>
+</div>
 
 <a href="mailto:rohithks60@gmail.com"><img src="https://raw.githubusercontent.com/HumptyDumpty101/HumptyDumpty101/main/images/v2/footer.svg" width="100%" alt="Thanks for scrolling" /></a>
